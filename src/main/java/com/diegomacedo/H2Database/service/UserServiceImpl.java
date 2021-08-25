@@ -6,10 +6,10 @@ import javax.transaction.Transactional;
 
 import org.springframework.stereotype.Service;
 
-import com.diegomacedo.H2Database.com.diegomacedo.springTokenRefresh.repository.RoleRepository;
-import com.diegomacedo.H2Database.com.diegomacedo.springTokenRefresh.repository.UserRepository;
 import com.diegomacedo.H2Database.domain.Role;
 import com.diegomacedo.H2Database.domain.User;
+import com.diegomacedo.H2Database.repository.RoleRepository;
+import com.diegomacedo.H2Database.repository.UserRepository;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

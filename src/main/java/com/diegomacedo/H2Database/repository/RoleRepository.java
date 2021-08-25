@@ -1,4 +1,4 @@
-package com.diegomacedo.H2Database.com.diegomacedo.springTokenRefresh.repository;
+package com.diegomacedo.H2Database.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
